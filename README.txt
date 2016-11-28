@@ -1,3 +1,4 @@
+# Add Additional Mime Supports to Wordpress
 
 Add a class to add additional mime supports.
 
