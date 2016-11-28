@@ -1,6 +1,6 @@
 # Add Additional Mime Supports to Wordpress
 
-Add a class to add additional mime supports.
+Class to add additional mime supports to wordpress media uploader.
 
 Add your mime name and mime type format to method add_mime_type, then fire the load method.
 For example:
